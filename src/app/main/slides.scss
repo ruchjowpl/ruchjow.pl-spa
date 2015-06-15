@@ -1,0 +1,16 @@
+.slide {
+  min-height: 500px;
+  .discover, .join {
+    background-size: cover;
+    background-position: bottom center;
+    min-height: 700px;
+  }
+
+  .discover {
+    background-image: url('../assets/images/covers/zoom-57679708-3.jpg');
+  }
+
+  .join {
+    background-image: url('../assets/images/covers/zoom-46514424-3.png');
+  }
+}

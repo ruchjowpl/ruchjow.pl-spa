@@ -1,0 +1,5 @@
+<carousel interval="'5000'">
+  <slide class="slide" ng-repeat="slide in slides" active="slide.active">
+    <div ng-include="'app/main/slides/'+ slide.template + '.html'" class="{{slide.template}}"></div>
+  </slide>
+</carousel>
