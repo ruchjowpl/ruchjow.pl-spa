@@ -1,5 +1,5 @@
 {
-  "name": "ruchjowSpa",
+  "name": "ruchjowplSpa",
   "version": "0.0.0",
   "scripts": {
     "start": "node web.js",
