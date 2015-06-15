@@ -2,7 +2,7 @@
   "name": "ruchjowSpa",
   "version": "0.0.0",
   "scripts": {
-    "start": "node index.js",
+    "start": "node web.js",
     "postinstall": "bower install && gulp build"
   },
   "dependencies": {
