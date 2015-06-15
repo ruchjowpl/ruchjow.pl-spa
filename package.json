@@ -1,7 +1,10 @@
 {
   "name": "ruchjowSpa",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "gulp-util": "^3.0.5",
+    "lodash": "^3.9.3"
+  },
   "scripts": {
     "test": "gulp test"
   },
